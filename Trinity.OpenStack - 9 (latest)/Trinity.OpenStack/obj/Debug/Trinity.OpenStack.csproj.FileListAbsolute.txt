@@ -1,0 +1,54 @@
+c:\users\cboland\documents\visual studio 2012\Projects\Trinity.OpenStack\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.dll
+c:\users\cboland\documents\visual studio 2012\Projects\Trinity.OpenStack\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.pdb
+c:\users\cboland\documents\visual studio 2012\Projects\Trinity.OpenStack\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.dll
+c:\users\cboland\documents\visual studio 2012\Projects\Trinity.OpenStack\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.pdb
+C:\Users\cboland\documents\visual studio 2012\Projects\Trinity.OpenStack\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.csprojResolveAssemblyReference.cache
+C:\Users\cboland\documents\visual studio 2012\Projects\Trinity.OpenStack\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cboland\documents\visual studio 2012\Projects\Trinity.OpenStack\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.xml
+C:\Chip\Trinity.OpenStack\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.dll
+C:\Chip\Trinity.OpenStack\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.xml
+C:\Chip\Trinity.OpenStack\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.csprojResolveAssemblyReference.cache
+C:\Chip\Trinity.OpenStack\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 2\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 2\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 2\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.dll
+C:\Chip\Trinity.OpenStack - 2\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.xml
+C:\Chip\Trinity.OpenStack - 2\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 2\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 4\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 4\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 4\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.dll
+C:\Chip\Trinity.OpenStack - 4\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.xml
+C:\Chip\Trinity.OpenStack - 4\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.csprojResolveAssemblyReference.cache
+C:\Chip\Trinity.OpenStack - 4\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 4\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 5\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 5\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 5\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.dll
+C:\Chip\Trinity.OpenStack - 5\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.xml
+C:\Chip\Trinity.OpenStack - 5\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.csprojResolveAssemblyReference.cache
+C:\Chip\Trinity.OpenStack - 5\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 5\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 6\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 6\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 6\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.dll
+C:\Chip\Trinity.OpenStack - 6\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.xml
+C:\Chip\Trinity.OpenStack - 6\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.csprojResolveAssemblyReference.cache
+C:\Chip\Trinity.OpenStack - 6\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 6\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 7\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 7\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.pdb
+C:\Chip\Trinity.OpenStack - 7\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.dll
+C:\Chip\Trinity.OpenStack - 7\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.xml
+C:\Chip\Trinity.OpenStack - 7\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.dll
+C:\Chip\Trinity.OpenStack - 7\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.pdb
+\\mars.cs.trinity.edu\4385\_Racker-DotNet-Kendall-David-Chip-AaronK-Arnold-Tommy\DLL\Trinity.OpenStack - 9 (latest)\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.dll
+\\mars.cs.trinity.edu\4385\_Racker-DotNet-Kendall-David-Chip-AaronK-Arnold-Tommy\DLL\Trinity.OpenStack - 9 (latest)\Trinity.OpenStack\bin\Debug\Trinity.OpenStack.pdb
+\\mars.cs.trinity.edu\4385\_Racker-DotNet-Kendall-David-Chip-AaronK-Arnold-Tommy\DLL\Trinity.OpenStack - 9 (latest)\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.dll
+\\mars.cs.trinity.edu\4385\_Racker-DotNet-Kendall-David-Chip-AaronK-Arnold-Tommy\DLL\Trinity.OpenStack - 9 (latest)\Trinity.OpenStack\bin\Debug\Newtonsoft.Json.xml
+\\mars.cs.trinity.edu\4385\_Racker-DotNet-Kendall-David-Chip-AaronK-Arnold-Tommy\DLL\Trinity.OpenStack - 9 (latest)\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.csprojResolveAssemblyReference.cache
+\\mars.cs.trinity.edu\4385\_Racker-DotNet-Kendall-David-Chip-AaronK-Arnold-Tommy\DLL\Trinity.OpenStack - 9 (latest)\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.dll
+\\mars.cs.trinity.edu\4385\_Racker-DotNet-Kendall-David-Chip-AaronK-Arnold-Tommy\DLL\Trinity.OpenStack - 9 (latest)\Trinity.OpenStack\obj\Debug\Trinity.OpenStack.pdb
