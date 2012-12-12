@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1444848916/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1444848916/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1444848916/PATH/value=C\:\\MinGW\\bin;C\:\\MinGW\\msys\\1.0\\bin;C\:/Program Files/Java/jre6/bin/client;C\:/Program Files/Java/jre6/bin;C\:/Program Files/Java/jre6/lib/i386;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;M\:\\mfgsys\\system;C\:\\PROGRA~1\\COMMON~1\\Odbc\\FILEMA~1;c\:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\;c\:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;C\:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0;C\:\\msys\\1.0\\bin;C\:\\Program Files\\doxygen\\bin;C\:\\Documents and Settings\\kbailey\\My Documents\\Downloads\\eclipse-cpp-indigo-SR2-incubation-win32\\eclipse
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1444848916/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1444848916/appendContributed=true
