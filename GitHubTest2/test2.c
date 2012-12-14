@@ -26,3 +26,8 @@ void Test1(int num){
 void Test2(char *str){
 	printf("%s", str);
 }
+
+
+void Test4(int x){
+	return x;
+}
